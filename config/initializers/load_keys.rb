@@ -1,0 +1,1 @@
+KEYS = YAML.load_file("#{settings.root}/config/api_keys.yml")
